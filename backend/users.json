@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "name": "Abhay Gupta",
+        "email": "abhay@gmail.com",
+        "connectionIDs" : ["43432", "34324"]
+    },
+    {
+        "id": "2",
+        "name": "Umesh Chandhankeri",
+        "email": "umesh@gmail.com",
+        "connectionIDs" : ["43432", "45645"]
+    },
+    {
+        "id": "3",
+        "name": "Yaminim Sinha",
+        "email": "yaminim@gmail.com",
+        "connectionIDs" : ["34324", "45645"]
+    }
+]

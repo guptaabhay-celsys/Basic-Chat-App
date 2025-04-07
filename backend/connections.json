@@ -1,0 +1,20 @@
+[
+    {
+      "connectionID": "43432",
+      "chatId": "455",
+      "user1": "1",
+      "user2": "2"
+    },
+    {
+      "connectionID": "34324",
+      "chatId": "786",
+      "user1": "1",
+      "user2": "3"
+    },
+    {
+      "connectionID": "45645",
+      "chatId": "345",
+      "user1": "2",
+      "user2": "3"
+    }
+  ]
