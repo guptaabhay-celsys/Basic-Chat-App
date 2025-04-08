@@ -20,10 +20,9 @@ const TextWindow = () => {
   let currentTime = new Date().toLocaleTimeString();
 
   useEffect(() => {
-      const fetchChats = async () => {
       const user = users.find(u => u.id === loggedInUserId);
       setCurrUser(user);
-
+      const fetchChats = async () => {
       try {
         const res = await fetch('http://localhost:5000/get-messages');
         const data = await res.json();
